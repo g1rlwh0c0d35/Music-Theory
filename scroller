@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+</style>
+</head>
+<script>
+var value = 0;
+var screenWidth = 300;
+var pixels = 0;
+if (value = 0){
+	//draw
+	<img src="note.gif" width="300" height="200" alt="Notes">
+	if (pixels = 360){
+		var pixels = pixels - pixels
+		//redraw
+	}
+	var pixels = pixels + 1;
+	//x movement
+	//redraw
+}
+</script>
+</body>
+</html>
