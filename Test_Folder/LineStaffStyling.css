@@ -1,0 +1,9 @@
+html { 
+  background: url(STAFFBACK.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  /*-o-background-size: cover;*/
+  background-size: 98%;
+  margin-left:10px;
+  background-position:center;
+}
